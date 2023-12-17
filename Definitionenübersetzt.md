@@ -1,8 +1,20 @@
-Karte der Waldressourcen: Beschreibt die Verteilung und Merkmale der Waldressourcen des Landes.
+# übersetzung
+### Karte der Waldressourcen:
+Beschreibt die Verteilung und Merkmale der Waldressourcen des Landes.
 
-Wald: Waldgebiet, also Waldgebiet, das kein Moor ist.
+### oppdateringsdato : 
+Datum der letzten Änderung der Objektdaten
+Notiz:
+Das Aktualisierungsdatum kann vom Datenerfassungsdatum abweichen, da registrierte Daten für eine kürzere Zeit zwischengespeichert werden können
+oder ein längerer Zeitraum, bevor diese in das Computersystem (Datenbank) eingegeben werden.
+-Definition-
+Datum und Uhrzeit, zu der diese Version des Geoobjekts in den Geodatensatz eingefügt oder geändert wurde.
 
-Biomasse: Trockene Biomasse der Bäume. Kann in oberirdische und unterirdische Biomasse unterteilt werden.
+### Wald: 
+Waldgebiet, also Waldgebiet, das kein Moor ist.
+
+### Biomasse: 
+Trockene Biomasse der Bäume. Kann in oberirdische und unterirdische Biomasse unterteilt werden.
 
 Kreditwürdigkeit: Produktionskapazität von Skogsmarka.
 
